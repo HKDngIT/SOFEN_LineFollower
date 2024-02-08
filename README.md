@@ -1,5 +1,5 @@
 
-# LineFollower-Robot
+# LineFollower-Robot Team Project
 ![Zumo](./Images/Zumo.jpg)  
 A robot, which follows a black line using line sensors.  
 Special features include:
