@@ -66,6 +66,9 @@ The other important part of tests were the unit tests implemented with the ![Uni
 ### *The whole UML class diagram of the project(redacted)*  
 ![classDia](/Images/classDiagram.png)  
 
+### *Compromised design of the User Interface on the OLED-Screen*
+![UI](/Images/ui.png)
+
 
 ## Official Sources of Content and Images
 [Polulul - Robotics and Electronics](https://www.pololu.com/docs/0J63/all)  
