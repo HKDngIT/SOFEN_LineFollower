@@ -37,7 +37,7 @@ The implementation steps were roughly:
 
 ## Test
 Partly the test consisted of the integration tests during the implementation process.  
-The other important part of tests were the unit tests implemented with the ![Unity Test Framework](https://docs.unity3d.com/Packages/com.unity.test-framework@1.1/manual/index.html) using the simulated Hardware using the HWSIM-classes(watch below in 'Image' section)
+The other important part of tests were the unit tests implemented with the ![Unity Test Framework](https://docs.unity3d.com/Packages/com.unity.test-framework@1.1/manual/index.html) using the simulated Hardware using the simulated Hardware using the HWSIM-classes(see below in 'Image' section)
 
 ## What I was part of
 - Implementation of the acting package in the hardware layer - the control over the motor module
@@ -46,7 +46,7 @@ The other important part of tests were the unit tests implemented with the ![Uni
 
 ## Goal of the Project
 - The ability to realize a greater object-oriented softwareproject
-- aswell as the know-how to use the distributed version control system GIT in a smaller team
+- Aswell as the know-how to use the distributed version control system GIT in a smaller team
 - Clean documentation using [Doxygen](https://www.doxygen.nl/index.html)
 - Clean coding with a specific coding-style given by the lecturer
 - Using UML with [PlantUML](https://plantuml.com/de/)
