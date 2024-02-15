@@ -69,6 +69,9 @@ The other important part of tests were the unit tests implemented with the ![Uni
 ### *Compromised design of the User Interface on the OLED-Screen*
 ![UI](/Images/ui.png)
 
+### *GITLAB Contribution activity - is hidden because the repository is private*  
+![gitlab](/Images/GitLab.jpg)
+
 
 ## Official Sources of Content and Images
 [Polulul - Robotics and Electronics](https://www.pololu.com/docs/0J63/all)  
