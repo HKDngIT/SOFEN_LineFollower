@@ -69,7 +69,7 @@ The other important part of tests were the unit tests implemented with the ![Uni
 ### *Compromised design of the User Interface on the OLED-Screen*
 ![UI](/Images/ui.png)
 
-### *GITLAB Contribution activity - is hidden because the repository is private*  
+### *GITLAB Contribution activity - Repository is private* [link to gitlab](https://hs-ulm-ikt-gitlab.westeurope.cloudapp.azure.com/hduong)  
 ![gitlab](/Images/GitLab.jpg)
 
 
