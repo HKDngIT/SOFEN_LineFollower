@@ -9,7 +9,7 @@ Special features include:
 - Clean error handling
 
 Each week we held 2 meetings to discuss our problems or review the results. After every lecture each team member had a task for that week(depends) and had to create his or her own branch to implement/ solve the task. 
-The GITLAB repository was modified so it was not possible to merge branches into the MAIN without the approval of at least one other team member. So before any merge the code and changes were thoroughly reviewed. 
+The GITLAB repository was modified so it was not possible to merge branches into the MAIN without the approval of at least one other team member. So before any merge, the code and changes were thoroughly reviewed. 
 In order for everyone to have a good overview what the other members are currently working on, we used a ![Kanban Board](https://de.wikipedia.org/wiki/Kanban-Board) using ![Gitlab issue boards](https://docs.gitlab.com/ee/user/project/issue_board.html).  
 
 # Phases
