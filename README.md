@@ -44,6 +44,11 @@ The other important part of tests were the unit tests implemented with the ![Uni
 - Implementation of the run state which is responsible for line-follow-handling/ gap handling etc.
 - Implementation of the unit tests for the run state
 
+## The Unity Test Framework
+- UTF is not an object-oriented framework
+- UTF is written in C which makes it particularly suitable for unit tests in embedded systems with smaller processors which almost always support C
+- More about UTF [here](https://docs.unity3d.com/Packages/com.unity.test-framework@1.4/manual/index.html)
+
 ## Goal of the Project
 - The ability to realize a greater object-oriented softwareproject
 - Aswell as the know-how to use the distributed version control system GIT in a smaller team
