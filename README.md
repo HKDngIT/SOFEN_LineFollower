@@ -35,7 +35,7 @@ The implementation steps were roughly:
 - hardware layer(to ensure each hardware module was functioning properly)
 - each state specifically(start-up, calibration, ready/ idle, error, finish, run)
 
-## Test
+## Testing
 Partly the test consisted of the integration tests during the implementation process.  
 The other important part of tests were the unit tests implemented with the ![Unity Test Framework](https://docs.unity3d.com/Packages/com.unity.test-framework@1.1/manual/index.html) using the simulated Hardware using the simulated Hardware using the HWSIM-classes(see below in 'Image' section)
 
