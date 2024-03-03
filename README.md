@@ -54,7 +54,7 @@ The other important part of tests were the unit tests implemented with the ![Uni
 - Aswell as the know-how to use the distributed version control system GIT in a smaller team
 - Clean documentation using [Doxygen](https://www.doxygen.nl/index.html)
 - Clean coding with a specific coding-style given by the lecturer
-- Using UML with [PlantUML](https://plantuml.com/de/)
+- Creating UML-Diagrams using [PlantUML](https://plantuml.com/de/)
 - Well structured software development process - in this case the (V Model)
 
 ## Images
