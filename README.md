@@ -1,5 +1,5 @@
-
 # LineFollower-Robot Team Project
+
 ![Zumo](./Images/Zumo.jpg)  
 A robot, which follows a black line using line sensors.  
 Special features include:
@@ -7,6 +7,12 @@ Special features include:
 - Gap Handling
 - Time measurement and distance measurement for each run
 - Clean error handling
+
+
+## Disclaimer
+
+Due to privacy issues I will sum up all details and knowledge I have gained during the project.  
+**I DO NOT OWN ANY RIGHTS OF THE IMAGES USED - UPON REQUEST I WILL REMOVE THEM ASAP!**
 
 ## Videos of the Zumo in action:
 - [Ultra Performance Track - Uncuccessful run](https://drive.google.com/file/d/11UmHGwZcgR4-zAQzRrmi9Z3cv77mWBfe/view?usp=sharing)
@@ -92,8 +98,3 @@ The other important part of tests were the unit tests implemented with the *Unit
 [V Model](https://builtin.com/software-engineering-perspectives/v-model)  
 [PlantUML](https://plantuml.com/de/)  
 [Official Zumo 32U4 Library](https://pololu.github.io/zumo-32u4-arduino-library/)
-
-## Disclaimer
-
-Due to privacy issues I will sum up all details and knowledge I have gained during the project.  
-I DO NOT OWN ANY RIGHTS OF THE IMAGES USED - UPON REQUEST I WILL REMOVE THEM ASAP!
