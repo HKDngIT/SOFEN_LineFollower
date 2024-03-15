@@ -15,7 +15,7 @@ Due to privacy issues I will sum up all details and knowledge I have gained duri
 **I DO NOT OWN ANY RIGHTS OF THE IMAGES USED - UPON REQUEST I WILL REMOVE THEM ASAP!**
 
 ## Videos of the Zumo in action:
-- [Ultra Performance Track - Uncuccessful run](https://drive.google.com/file/d/11UmHGwZcgR4-zAQzRrmi9Z3cv77mWBfe/view?usp=sharing)
+- [Ultra Performance Track - Unsuccessful run](https://drive.google.com/file/d/11UmHGwZcgR4-zAQzRrmi9Z3cv77mWBfe/view?usp=sharing)
 - [Ultra Performance Track - Successful run](https://drive.google.com/file/d/11fx8QAsk25D5qmZLhgk9yqIh9yYARoC1/view?usp=sharing)
 - [Performance Track - Successful run](https://drive.google.com/file/d/12VChH-9JJiB1CIP_mzVOU0V2ho85SU6y/view?usp=sharing)
 - [Remote development at home](https://drive.google.com/file/d/12Vm6Z2NtBgFjGL-lRJlZtP5Dg3OHjfs0/view?usp=sharing)
